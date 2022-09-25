@@ -1,16 +1,14 @@
-### Hi there 👋
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouzati&hide=php&layout=compact&theme=radical" /></td>
+        <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucassouzati&theme=radical&show_icons=true"/>
+</td>
+    </tr>
+  </table>
+</center>
 
-<!--
-**lucassouzati/lucassouzati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! Por favor, não repare a bagunça! 😅 Ainda estou arrumando as coisas da mudança. 📦
+### Estou migrando meus projetos para o github, e aos poucos vou publicando o que posso.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Atualmente sou programador PHP, mas sempre disposto a novos desafios. A melhor linguagem programação é aquela que resolve o seu problema. 
