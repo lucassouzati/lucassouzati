@@ -22,7 +22,7 @@ Github em construção ... 🔨
 Sistema web que foi refeito em PHP (Laravel) após uma versão antiga perder suporte. Ele funciona como retaguarda a outro sistema PDV (caixa) em festas e bares através de comunicação por API REST. Possui como principais funções o gerenciamento de estoque, criação e gerenciamento de eventos e consolidação de dados de vendas realizadas no sistema PDV.
 
 Tecnologias: 
-<code alt="PHP"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
