@@ -101,3 +101,15 @@ Tecnologias:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+
+### Transparência de Atos Jurídicos (API)
+
+Resolvi refazer um antigo meu sistema para publicação de atos jurídicos públicos, seguindo as práticas mais atuais no cenário de back-end com PHP e Laravel. Utilizei recursos avançados do framework como gerenciamento de filas e cache com Redis. Deixei o código aberto e documentado para que seja possível utilizar como referência e aprendizado por outras pessoas.
+
+Tecnologias:
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="MySQL"/></code>
+
+Link do repositório aberto: [Transparência de Atos Jurídicos (API)](https://github.com/lucassouzati/transparencia-atos-juridicos-api)
