@@ -11,7 +11,7 @@
 ## Olá! Por favor, não repare a bagunça! 😅 Ainda estou arrumando as coisas da mudança. 📦
 ### Estou migrando meus projetos para o github, e aos poucos vou publicando o que posso.
 
-### Atualmente sou programador PHP, mas estou sempre disposto a novos desafios. A melhor linguagem de programação é aquela que resolve o seu problema. 
+### Atualmente programo majoritariamente em JAVA e PHP, mas estou sempre disposto a novos desafios. A melhor linguagem de programação é aquela que resolve o seu problema. 
 
 Github em construção ... 🔨
 
