@@ -9,13 +9,46 @@
 </center>
 
 ## Olá! Por favor, não repare a bagunça! 😅 Ainda estou arrumando as coisas da mudança. 📦
-### Estou migrando meus projetos para o github, e aos poucos vou publicando o que posso.
+### A maior parte dos meus projetos são privados, então publico aqui provas de conceito, trabalhos educativos e demonstrações a fim de praticar e disseminar conhecimento na programação em geral. 
 
 ### Atualmente programo majoritariamente em JAVA e PHP, mas estou sempre disposto a novos desafios. A melhor linguagem de programação é aquela que resolve o seu problema. 
 
 Github em construção ... 🔨
 
 ## Projetos desenvolvidos 🚀
+
+### Hexafood
+
+Esse projeto faz parte do trabalho "Tech Challenge - Fase 01", ministrado no primeiro módulo do curso de Pós Graduação Software Architecture da FIAP em parceria com a Alura.
+
+Para exercitar os conceitos apresentados nas primeiras matérias do curso, sendo elas sobre Domain Driven Design (DDD), Docker e Arquitetura de Software, foi desenvolvido uma aplicação backend em Typescript no framework NestJS, com o design de código adaptado para representar os princípios da Arquitetura Hexagonal, tambem conhecida como abordagem de Portas e Adpatadores (Ports and Adapters).
+
+Tecnologias:
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+
+
+Link do repositório aberto: [Hexafood](https://github.com/lucassouzati/hexafood)
+
+### Root Java
+
+Demonstração simples de design de código com Java puro e JUnit. As classes foram organizadas a fim de exercitar conceitos de boas práticas como uso de interfaces como Portas (Ports and Adapters Architecture) e Testes Unitários.
+
+Tecnologias:
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="JAVA"/></code>
+
+Link do repositório aberto: [Root Java](https://github.com/lucassouzati/root_java)
+
+### Transparência de Atos Jurídicos (API)
+
+Resolvi refazer um antigo meu sistema para publicação de atos jurídicos públicos, seguindo as práticas mais atuais no cenário de back-end com PHP e Laravel. Utilizei recursos avançados do framework como gerenciamento de filas e cache com Redis. Deixei o código aberto e documentado para que seja possível utilizar como referência e aprendizado por outras pessoas.
+
+Tecnologias:
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="MySQL"/></code>
+
+Link do repositório aberto: [Transparência de Atos Jurídicos (API)](https://github.com/lucassouzati/transparencia-atos-juridicos-api)
 
 ### Showmanager
 
@@ -41,54 +74,6 @@ Tecnologias:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
-### Cadastro de Fornecedores
-
-Sistema web desenvolvido em PHP para registrar o cadastro de fornecedores da Secretaria Municipal de Saúde de Itaperuna, em atendimento ao disposto no artigo 34 § 1° da Lei Federal de Licitações n° 8.666/93.
-
-Tecnologias: 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-
-### Transparência de Licitações
-
-Desenvolvido em PHP, o objetivo desse sistema é gerenciar as publicações referente a atos licitatórios, compras e contratos públicos da Secretaria Municipal de Saúde de Itaperuna, em atendimento aos dispositivos de transparência pública da legislação vigente.
-
-Tecnologias: 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-
-### RX Odontomanager
-
-Gerenciador de exames clínicos radiológicos desenvolvido em PHP. O sistema gerencia desde a criação da requisição, até o pagamento da mesma. Para visualização dos exames, foi utilizado um componente em React.
-
-Tecnologias: 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-
-### RXDENTÁRIO
-
-Desenvolvimento de site institucional, incluindo uma área restrita para consulta de resultado de exames radiológicos e tomográficos.
-
-Tecnologias: 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 ### Webóticas
 
@@ -102,14 +87,3 @@ Tecnologias:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
-### Transparência de Atos Jurídicos (API)
-
-Resolvi refazer um antigo meu sistema para publicação de atos jurídicos públicos, seguindo as práticas mais atuais no cenário de back-end com PHP e Laravel. Utilizei recursos avançados do framework como gerenciamento de filas e cache com Redis. Deixei o código aberto e documentado para que seja possível utilizar como referência e aprendizado por outras pessoas.
-
-Tecnologias:
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="MySQL"/></code>
-
-Link do repositório aberto: [Transparência de Atos Jurídicos (API)](https://github.com/lucassouzati/transparencia-atos-juridicos-api)
