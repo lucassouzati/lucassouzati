@@ -11,7 +11,7 @@
 ## Olá! Por favor, não repare a bagunça! 😅 Ainda estou arrumando as coisas da mudança. 📦
 ### A maior parte dos meus projetos são privados, então publico aqui provas de conceito, trabalhos educativos e demonstrações a fim de praticar e disseminar conhecimento na programação em geral. 
 
-### Atualmente programo majoritariamente em JAVA e PHP, mas estou sempre disposto a novos desafios. A melhor linguagem de programação é aquela que resolve o seu problema. 
+### Atualmente programo majoritariamente em JAVA e PHP, mas estou sempre disposto a novos aprendizados. A melhor linguagem de programação é aquela que resolve o seu problema. 
 
 Github em construção ... 🔨
 
